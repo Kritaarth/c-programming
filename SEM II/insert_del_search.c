@@ -63,9 +63,6 @@ int delete()
         {
             printf("%d ",a[i]);
         }
-
-        printf(" ");
-        printf(" ");
     }
     
 }
